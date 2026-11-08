@@ -1,0 +1,4 @@
+deltamichael-mention-permissions:
+  admin:
+    permissions:
+      cannot_mention_users: Cannot mention other users

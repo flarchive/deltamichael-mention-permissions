@@ -1,0 +1,32 @@
+{
+    "name": "deltamichael/mention-permissions",
+    "description": "Restrict user mentions by Flarum group permissions.",
+    "keywords": [
+        "flarum",
+        "mentions",
+        "permissions"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DeltaMichael"
+        }
+    ],
+    "require": {
+        "php": "^8.3",
+        "flarum/core": "^2.0",
+        "flarum/mentions": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DeltaMichael\\MentionPermissions\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Mention Permissions",
+            "category": "feature"
+        }
+    }
+}
