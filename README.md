@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of deltamichael/mention-permissions.** Not for installation: use [Packagist](https://packagist.org/packages/deltamichael/mention-permissions) or the [upstream repository](https://github.com/DeltaMichael/mention-permissions).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/deltamichael-mention-permissions/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^2.0`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/deltamichael-mention-permissions/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2026-11-08 | `^2.0` | [Browse](https://github.com/flarchive/deltamichael-mention-permissions/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/deltamichael-mention-permissions.json](https://github.com/flarchive/archive-index/blob/main/packages/deltamichael-mention-permissions.json)
 
